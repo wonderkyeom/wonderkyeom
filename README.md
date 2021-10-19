@@ -1,9 +1,11 @@
 ### Journey to Frontend
 Replacing 99.99% of Jupyter Notebook with other languages
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={wonderkyum21})](https://solved.ac/{wonderkyum21})
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonderkyum21)](https://solved.ac/wonderkyum21)
 
 <!--
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={wonderkyum21})](https://solved.ac/{wonderkyum21})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={wonderkyum21})](https://solved.ac/{wonderkyum21})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={wonderkyum21})](https://solved.ac/{wonderkyum21})
 -->
