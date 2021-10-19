@@ -1,5 +1,7 @@
+<!--
 ### Journey to Frontend
 Replacing 99.99% of Jupyter Notebook with other languages
+-->
 
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonderkyum21)](https://solved.ac/wonderkyum21)
 
