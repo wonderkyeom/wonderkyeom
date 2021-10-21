@@ -20,7 +20,7 @@ Replacing 99.99% of Jupyter Notebook with other languages
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Linux Containers-333333?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux Containers-333333?style=for-the-badge&logo=Linux Containers&logoColor=white">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderkyeom&layout=compact)
 
